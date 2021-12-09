@@ -1,2 +1,54 @@
 ### USA Topo Maps
 https://services.arcgisonline.com/arcgis/rest/services/USA_Topo_Maps/MapServer/WMTS/1.0.0/WMTSCapabilities.xml
+http://services.arcgisonline.com/arcgis/rest/services/USA_Topo_Maps/MapServer/WMTS/1.0.0/WMTSCapabilities.xml
+
+#NATGEO WORLD MAP
+https://services.arcgisonline.com/arcgis/rest/services/NatGeo_World_Map/MapServer/WMTS/1.0.0/WMTSCapabilities.xml
+
+#WORLD IMAGERY
+https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/WMTS/1.0.0/WMTSCapabilities.xml
+
+#WORLD PHYSICAL MAP
+https://services.arcgisonline.com/arcgis/rest/services/World_Physical_Map/MapServer/WMTS/1.0.0/WMTSCapabilities.xml
+
+#WORLD SHADED RELIEF
+https://services.arcgisonline.com/arcgis/rest/services/World_Shaded_Relief/MapServer/WMTS/1.0.0/WMTSCapabilities.xml
+
+#WORLD STREET MAP
+https://services.arcgisonline.com/arcgis/rest/services/World_Street_Map/MapServer/WMTS/1.0.0/WMTSCapabilities.xml
+
+#WORLD TERRAIN BASE
+https://services.arcgisonline.com/arcgis/rest/services/World_Terrain_Base/MapServer/WMTS/1.0.0/WMTSCapabilities.xml
+
+#WORLD TOPO MAP
+https://services.arcgisonline.com/arcgis/rest/services/World_Topo_Map/MapServer/WMTS/1.0.0/WMTSCapabilities.xml
+
+#CANVAS WORLD_DARK_GRAY
+https://services.arcgisonline.com/arcgis/rest/services/Canvas/World_Dark_Gray_Reference/MapServer/WMTS/1.0.0/WMTSCapabilities.xml
+
+#CANVAS WORLD_LIGHT_GRAY
+https://services.arcgisonline.com/arcgis/rest/services/Canvas/World_Light_Gray_Reference/MapServer/WMTS/1.0.0/WMTSCapabilities.xml
+
+#ELEVATION HILLSHADE_DARK
+https://services.arcgisonline.com/arcgis/rest/services/Elevation/World_Hillshade_Dark/MapServer/WMTS/1.0.0/WMTSCapabilities.xml
+
+#ELEVATION HILLSHADE LIGHT
+https://services.arcgisonline.com/arcgis/rest/services/Elevation/World_Hillshade/MapServer/WMTS/1.0.0/WMTSCapabilities.xml
+
+#REFERENCE WORLD BOUNDARIES
+https://services.arcgisonline.com/arcgis/rest/services/Reference/World_Boundaries_and_Places/MapServer/WMTS/1.0.0/WMTSCapabilities.xml
+https://services.arcgisonline.com/arcgis/rest/services/Reference/World_Boundaries_and_Places_Alternate/MapServer/WMTS/1.0.0/WMTSCapabilities.xml
+
+#WORLD REFERENCE OVERLAY
+https://services.arcgisonline.com/arcgis/rest/services/Reference/World_Reference_Overlay/MapServer/WMTS/1.0.0/WMTSCapabilities.xml
+
+#WORLD REFERENCE TRANSPORTATION
+https://services.arcgisonline.com/arcgis/rest/services/Reference/World_Transportation/MapServer/WMTS/1.0.0/WMTSCapabilities.xml
+
+#DELORME WORLD BASE-MAP
+https://services.arcgisonline.com/arcgis/rest/services/Specialty/DeLorme_World_Base_Map/MapServer/WMTS/1.0.0/WMTSCapabilities.xml
+
+#WORLD NAVIGATION CHARTS
+https://services.arcgisonline.com/arcgis/rest/services/Specialty/World_Navigation_Charts/MapServer/WMTS/1.0.0/WMTSCapabilities.xml
+
+
